@@ -1,5 +1,5 @@
 ### Dice Roll
-## How to paly? & Rules of game
+## How to play? & Rules of game
 # User Rolls Dice
 * Generate random dice roll
 * Display dice roll
